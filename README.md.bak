@@ -1,5 +1,9 @@
 # Encurtador de URL
 
+## Interface
+
+![Tela principal](docs/tela-principal.png)
+
 ## Descrição
 
 Aplicação web desenvolvida em Java para encurtamento de URLs.
