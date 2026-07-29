@@ -146,6 +146,27 @@ Resposta:
 GET /api/urls/
 ```
 
+Resposta
+
+```json
+[
+    {
+        "codigo": "youtube",
+        "dataCriacao": "2026-07-29T17:32:57.530642",
+        "dataCriacaoFormatada": "29/07/2026 17:32",
+        "id": 43,
+        "urlOriginal": "https://www.youtube.com"
+    },
+    {
+        "codigo": "google",
+        "dataCriacao": "2026-07-29T17:32:43.83971",
+        "dataCriacaoFormatada": "29/07/2026 17:32",
+        "id": 42,
+        "urlOriginal": "https://www.google.com"
+    }
+]
+```
+
 ## Deletar todas as URLs cadastradas
 
 ```
