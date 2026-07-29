@@ -1,0 +1,29 @@
+# Maven
+target/
+
+# Gradle
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# NetBeans
+nbproject/private/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Compilados
+*.class
+
+# Dependências locais
+*.jar
