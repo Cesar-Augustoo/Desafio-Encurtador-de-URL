@@ -27,3 +27,6 @@ nbproject/private/
 
 # Dependências locais
 *.jar
+
+# Arquivos temporários
+*.bak
