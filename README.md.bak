@@ -2,7 +2,7 @@
 
 ## Interface
 
-![Tela principal](docs/tela-principal.png)
+![Tela principal](src/main/webapp/docs/tela-principal.png)
 
 ## Descrição
 
