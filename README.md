@@ -3,7 +3,7 @@
 ## Interface
 
 <p align="center">
-    <img src="docs/tela-principal.png" width="900"/>
+    <img src="./docs/tela-principal.png" width="900"/>
 </p>
 
 ## Descrição
